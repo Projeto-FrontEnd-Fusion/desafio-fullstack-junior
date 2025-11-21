@@ -6,6 +6,11 @@
 Você deverá desenvolver o **frontend** de um Sistema de Gerenciamento de Voluntários que consumirá uma API REST já existente.
 Este desafio avaliará seus conhecimentos em **React, Vite, TypeScript, gerenciamento de estado, UI, organização do código e boas práticas**.
 
+### 🎨 Referência de Design
+
+O layout da aplicação deve seguir como referência o modelo disponível no Figma:
+**[https://www.figma.com/design/JO0vsAS75zlc0Vrx0tA5WZ/Desafio-Desenvolvedor-junior?node-id=0-1&t=OiZVkJwKOB4I7uSH-1](https://www.figma.com/design/JO0vsAS75zlc0Vrx0tA5WZ/Desafio-Desenvolvedor-junior?node-id=0-1&t=OiZVkJwKOB4I7uSH-1)**
+
 ⏱️ **Prazo de Entrega:**
 12 dias a partir do recebimento deste desafio.
 ---
